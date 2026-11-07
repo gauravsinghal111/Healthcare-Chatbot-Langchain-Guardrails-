@@ -9,4 +9,4 @@ A healthcare chatbot built using **LangChain, LangGraph, and OpenAI GPT-4o**.
 - Adds medical disclaimers to chatbot responses.
 - Demonstrates symptom information, medication information, and appointment-booking tools.
 
-**Setup:** Install the required dependencies and configure your `OPENAI_API_KEY` before running the notebook.
+**Setup:** Install the required dependencies and configure your `OPENAI_API_KEY` or `GROQ_API_KEY` before running the notebook.
